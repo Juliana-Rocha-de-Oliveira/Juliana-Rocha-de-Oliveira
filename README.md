@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python
 
+https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
